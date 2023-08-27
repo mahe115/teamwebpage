@@ -1,0 +1,18 @@
+body {
+    /* Use the following line for a linear gradient */
+    background: linear-gradient(to bottom, #ff9900, #ff6600);
+
+    /* Use the following line for a radial gradient */
+    /* background: radial-gradient(circle, #ff9900, #ff6600); */
+
+    /* Use the following line for a repeating linear gradient */
+    /* background: repeating-linear-gradient(to bottom, #ff9900, #ff6600); */
+
+    /* Use the following line for a repeating radial gradient */
+    /* background: repeating-radial-gradient(circle, #ff9900, #ff6600); */
+
+    /* Other background properties */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* Add more properties as needed */
+}
